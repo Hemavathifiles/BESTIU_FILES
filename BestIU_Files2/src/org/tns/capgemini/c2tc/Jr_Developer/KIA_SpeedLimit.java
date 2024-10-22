@@ -1,4 +1,4 @@
-package Jr_Developer;
+package org.tns.capgemini.c2tc.Jr_Developer;
 
 public class KIA_SpeedLimit {
 

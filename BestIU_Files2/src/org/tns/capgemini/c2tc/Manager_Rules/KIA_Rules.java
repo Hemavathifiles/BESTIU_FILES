@@ -1,4 +1,4 @@
-package Manager_Rules;
+package org.tns.capgemini.c2tc.Manager_Rules;
 
 public class KIA_Rules {
 
