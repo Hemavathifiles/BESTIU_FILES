@@ -1,4 +1,4 @@
-package org.tnsif.capgemini.c2tc.constructorDemo;
+package org.tns.capgemini.c2tc.constructorDemo;
 
 class Myclass2
 {
