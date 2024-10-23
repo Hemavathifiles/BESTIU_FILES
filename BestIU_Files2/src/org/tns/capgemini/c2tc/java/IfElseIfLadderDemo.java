@@ -4,7 +4,7 @@ public class IfElseIfLadderDemo {
 
 	public static void main(String[] args) {
 		
-		int score =79;
+		int score =101;
 		
 		if (score>=90)
 		{
