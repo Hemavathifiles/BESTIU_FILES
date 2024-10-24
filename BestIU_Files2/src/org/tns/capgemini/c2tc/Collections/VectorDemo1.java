@@ -9,10 +9,14 @@ public class VectorDemo1 {
 		List<Integer> numbers=new Vector<>();
 			
 		//add element
-		numbers.add(10);
 		numbers.add(20);
+		numbers.add(10);
 		numbers.add(30);
 		numbers.add(40);
+		
+		
+		
+		System.out.println(numbers);
 		
 		//access an element
 		System.out.println("First number : " + numbers.get(0));
