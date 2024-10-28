@@ -11,6 +11,7 @@ public class ArrayList1 {
 		fruits.add("Mango");
 		fruits.add("Dragon fruit");
 		
+		
 		System.out.println("First fruit : " +fruits.get(0)); //access element
 		
 		fruits.set(1, "cherry"); //modify element

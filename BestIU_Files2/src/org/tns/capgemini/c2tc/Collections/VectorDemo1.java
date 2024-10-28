@@ -14,7 +14,7 @@ public class VectorDemo1 {
 		numbers.add(30);
 		numbers.add(40);
 		
-		
+		numbers.sort(null);
 		
 		System.out.println(numbers);
 		

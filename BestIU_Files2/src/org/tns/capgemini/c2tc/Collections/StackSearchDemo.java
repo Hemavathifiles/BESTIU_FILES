@@ -12,6 +12,7 @@ public class StackSearchDemo {
 		stack.push(90);
 		stack.push(56);
 		
+	
 		
 		//searching(1 - based indexing)
 		System.out.println("Position of 34 " + stack.search(34)); //4 

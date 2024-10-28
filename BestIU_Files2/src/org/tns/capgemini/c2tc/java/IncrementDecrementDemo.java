@@ -6,7 +6,7 @@ public class IncrementDecrementDemo {
 		 int a=10;
 		 
 		 //post increment
-		 System.out.println("a++ :" + a++);//prints first , then increment //10
+		 System.out.println("a++ :" + a++ );//prints first , then increment //10
 		 System.out.println("after post-increment of a :"  + a);//11
 		 
 			 
