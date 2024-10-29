@@ -3,6 +3,7 @@ package org.tns.capgemini.c2tc.Interface;
 interface Vehicle7
 {
 	void start();
+	
 	void stop();
 }
 

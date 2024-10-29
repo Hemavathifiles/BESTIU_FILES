@@ -1,3 +1,4 @@
+
 package org.tns.capgemini.c2tc.Collections;
 
 class Person5{
@@ -26,6 +27,7 @@ public class BeforeComparable {
 		Person5 person2=new Person5("anil  ",36);
 		person1.displayInfo();
 		person2.displayInfo();
+		
 		
 		
 	}
