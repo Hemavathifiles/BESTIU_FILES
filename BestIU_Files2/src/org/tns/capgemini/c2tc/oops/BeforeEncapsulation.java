@@ -10,6 +10,8 @@ public class BeforeEncapsulation {
 		Human obj= new Human();
 		obj.age=22;
 		obj.name="Navin";
+//		obj.age=23;
+//		obj.name="hema";
 		System.out.println(obj.age);
 		System.out.println(obj.name);
 
