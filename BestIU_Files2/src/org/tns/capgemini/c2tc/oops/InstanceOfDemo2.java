@@ -29,7 +29,7 @@ public class InstanceOfDemo2 {
 	public static void main(String[] args) {
 		PaymentMethod payment = new PaymentMethod();
 
-		payment=new Paypal();
+		payment=new CreditCard();
 		
 		if(payment instanceof CreditCard)
 		{
