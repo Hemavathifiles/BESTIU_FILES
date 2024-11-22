@@ -41,8 +41,6 @@ public class ScannerDemo2 {
 		short siblings=scan.nextShort();
 		
 		
-
-		
 		System.out.println("Student information");
 		System.out.println("Name" + name);
 		System.out.println("Age" + age);
