@@ -14,7 +14,7 @@ public class WithoutStreamAPI {
         for (Integer number : numbers) {
             // Check if the number is even
             if (number % 2 == 0) {
-                // Double the even number
+                // MULTIPLY the even number with 2
                 int doubled = number * 2;
                 // Add the doubled number to the result list
                 result.add(doubled);

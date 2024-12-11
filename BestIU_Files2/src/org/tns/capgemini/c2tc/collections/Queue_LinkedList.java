@@ -12,6 +12,7 @@ public class Queue_LinkedList {
 		queue.add(20);
 		queue.add(30);
 		
+		System.out.println(queue);
 		//peek at the front element without removing it
 		System.out.println("front element (using peek):" +queue.peek() );
 		

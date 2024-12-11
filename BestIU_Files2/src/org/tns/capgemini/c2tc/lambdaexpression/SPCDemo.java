@@ -29,8 +29,10 @@ public class SPCDemo {
 		
 Consumer<String> consumer= message ->System.out.println("consumer received " + message);
 consumer.accept("This is test message");
-		
-		
+System.out.println(consumer);
+
+
+
 		
 	}
 	
